@@ -10,6 +10,10 @@ This is a monolingual and cross-lingual word representation reading list maintai
     * [Semi-supervised models](#clwe_semi)
     * [Un-supervised models](#clwe_un)
     
+<h2 id="Monolingual word embeddings">Monolingual word embeddings</h2>
+<h3 id="mwe_tutorials">Tutorials</h3>
+<h2 id="Cross-lingual word embeddings">Cross-lingual word embeddings</h2>
+
 <h3 id="clwe_tutorials">Tutorials</h3>
 
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. ([Citation](https://scholar.google.com/scholar?cites=2174368482827457639&as_sdt=2005&sciodt=0,5&hl=en): 22)
