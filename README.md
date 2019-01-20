@@ -17,6 +17,7 @@ This is a monolingual and cross-lingual word representation reading list maintai
 <h3 id="clwe_tutorials">Tutorials</h3>
 
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. ([Citation](https://scholar.google.com/scholar?cites=2174368482827457639&as_sdt=2005&sciodt=0,5&hl=en): 22)
+* Ivan Vuli¢, Anders Søgaard, Manaal Faruqui. In EMNLP 2017. [Cross-Lingual Word Representations: Induction and Evaluation](http://people.ds.cam.ac.uk/iv250/tutorial/xlingrep-tutorial.pdf)
 * Anders Søgaard, Sebastian Ruder, and Ivan Vulić. 2018. [On the Limitations of Unsupervised Bilingual Dictionary Induction](http://aclweb.org/anthology/P18-1072). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=1427533216601294786&as_sdt=2005&sciodt=0,5&hl=en): 17)
 <h3 id="clwe_su">Supervised models</h3>
 
