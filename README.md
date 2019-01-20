@@ -8,7 +8,7 @@ This is a monolingual and cross-lingual word representation reading list maintai
     * [Tutorials](#clwe_tutorials)
     * [Supervised models](#clwe_su)
     * [Semi-supervised models](#clwe_semi)
-    * [Un-supervised models](#clwe_un)
+    * [Unsupervised models](#clwe_un)
     
 <h2 id="Monolingual word embeddings">Monolingual word embeddings</h2>
 <h3 id="mwe_tutorials">Tutorials</h3>
@@ -24,8 +24,11 @@ This is a monolingual and cross-lingual word representation reading list maintai
 * Meng Zhang, Yang Liu, Huanbo Luan, Maosong Sun, Tatsuya Izuha, and Jie Hao. 2016. [Building Earth Mover's Distance on Bilingual Word Embeddings for Machine Translation](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12227/12035). In *Proceedings of AAAI 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=10787724557107708547&as_sdt=2005&sciodt=0,5&hl=en): 11) 
 * Meng Zhang, Yang Liu, Huanbo Luan, Yiqun Liu, and Maosong Sun. 2016. [Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization](http://aclweb.org/anthology/C16-1300). In *Proceedings of COLING 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=7442971885961632428&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Ivan Vulić and Anna Korhonen. [On the Role of Seed Lexicons in Learning Bilingual Word Embeddings](http://www.aclweb.org/anthology/P16-1024). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=9848186834020452809&as_sdt=2005&sciodt=0,5&hl=en): 39)
-* Meng Zhang, Haoruo Peng, Yang Liu, Huanbo Luan, and Maosong Sun. [Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14682/14264). In *Proceedings of AAAI 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=6351287463037630922&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Ann Irvine and Chris Callison-Burch. 2017. [A Comprehensive Analysis of Bilingual Lexicon Induction](http://aclweb.org/anthology/J17-2001). *Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=9284068492500255032&as_sdt=2005&sciodt=0,5&hl=en): 12)
+
+<h3 id="clwe_semi">Semi-supervised models</h3>
+
+* Meng Zhang, Haoruo Peng, Yang Liu, Huanbo Luan, and Maosong Sun. [Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14682/14264). In *Proceedings of AAAI 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=6351287463037630922&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2017. [Learning Bilingual Word Embeddings with (Almost) No Bilingual Data](http://aclweb.org/anthology/P17-1042). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=17614535864871662614&as_sdt=2005&sciodt=0,5&hl=en): 62)
 
 <h3 id="clwe_un">Unsupervised models</h3>
