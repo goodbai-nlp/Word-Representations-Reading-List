@@ -21,7 +21,7 @@ This is a monolingual and cross-lingual word representation reading list maintai
 * Ivan Vuli¢, Anders Søgaard, Manaal Faruqui. 2017. [Cross-Lingual Word Representations: Induction and Evaluation](http://people.ds.cam.ac.uk/iv250/tutorial/xlingrep-tutorial.pdf). In *Proceedings of EMNLP 2017*.
 * Anders Søgaard, Sebastian Ruder, and Ivan Vulić. 2018. [On the Limitations of Unsupervised Bilingual Dictionary Induction](http://aclweb.org/anthology/P18-1072). In *Proceedings of ACL 2018*. [[BibTeX](https://aclanthology.info/papers/P18-1072/p18-1072.bib)]
 * Mareike Hartmann, Yova Kementchedjhieva and Anders Søgaard. 2018. [Why is unsupervised alignment of English embeddings from different
-algorithms so hard?](http://aclweb.org/anthology/D18-1056 ).  In *Proceedings of ACL 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1056/d18-1056.bib)]
+algorithms so hard?](http://aclweb.org/anthology/D18-1056 ).  In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1056/d18-1056.bib)]
 
 <h3 id="clwe_su">Supervised models</h3>
 
