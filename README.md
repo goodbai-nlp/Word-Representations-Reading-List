@@ -33,6 +33,7 @@ using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proce
 * Geert Heyman, Ivan Vulić, and Marie-Francine Moens. 2017. [Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations](http://aclweb.org/anthology/E17-1102). In *Proceedings of EACL 2017*. [[BibTeX](https://aclanthology.info/papers/E17-1102/e17-1102.bib)]
 * Ndapa Nakashole. 2018. [NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1047). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1047/d18-1047.bib)]
 * Yerai Doval, Jose Camacho-Collados, Luis Espinosa Anke, and Steven Schockaert. 2018. [Improving Cross-Lingual Word Embeddings by Meeting in the Middle](http://aclweb.org/anthology/D18-1027). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1027/d18-1027.bib)]
+* Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, and Edouard Grave. 2018. [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](http://aclweb.org/anthology/D18-1330). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1330/d18-1330.bib)] [[code](https://github.com/facebookresearch/fastText/tree/master/alignment/)]
 
 <h3 id="clwe_semi">Semi-supervised models</h3>
 
@@ -56,4 +57,3 @@ using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proce
 * Xilun Chen and Claire Cardie. 2018. [Unsupervised Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1024). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1024/d18-1024.bib)]
 * Sebastian Ruder, Ryan Cotterell, Yova Kementchedjhieva, and Anders Søgaard. 2018. [A Discriminative Latent-Variable Model for Bilingual Lexicon Induction](http://aclweb.org/anthology/D18-1042). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1042/d18-1042.bib)]
 * Zi-Yi Dou, Zhi-Hao Zhou, and Shujian Huang. 2018. [Unsupervised Bilingual Lexicon Induction via Latent Variable Models](http://aclweb.org/anthology/D18-1062). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1062/d18-1062.bib)]
-* Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, and Edouard Grave. 2018. [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](http://aclweb.org/anthology/D18-1330). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1330/d18-1330.bib)]
