@@ -15,6 +15,7 @@ This is a monolingual and cross-lingual word representation reading list maintai
 <h2 id="Cross-lingual word embeddings">Cross-lingual word embeddings</h2>
 
 <h3 id="clwe_tutorials">Tutorials</h3>
+
 * Shyam Upadhyay, Manaal Faruqui, Chris Dyer and Dan Roth. 2016. [Cross-lingual Models of Word Embeddings: An Empirical Comparison](http://aclweb.org/anthology/P16-1157). In *Proceedings of ACL 2016*. [[BibTeX](https://aclanthology.info/papers/P16-1157/p16-1157.bib)] [[code](https://github.com/shyamupa/biling-survey)] 
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. [[BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/corr/Ruder17)]
 * Ivan Vuli¢, Anders Søgaard, Manaal Faruqui. 2017. [Cross-Lingual Word Representations: Induction and Evaluation](http://people.ds.cam.ac.uk/iv250/tutorial/xlingrep-tutorial.pdf). In *Proceedings of EMNLP 2017*.
