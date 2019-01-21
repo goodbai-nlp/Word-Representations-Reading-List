@@ -16,14 +16,14 @@ This is a monolingual and cross-lingual word representation reading list maintai
 
 <h3 id="clwe_tutorials">Tutorials</h3>
 
-* Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. 
+* Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. [BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/corr/Ruder17)
 * Ivan Vuli¢, Anders Søgaard, Manaal Faruqui. 2017. [Cross-Lingual Word Representations: Induction and Evaluation](http://people.ds.cam.ac.uk/iv250/tutorial/xlingrep-tutorial.pdf). In *Proceedings of EMNLP 2017*.
-* Anders Søgaard, Sebastian Ruder, and Ivan Vulić. 2018. [On the Limitations of Unsupervised Bilingual Dictionary Induction](http://aclweb.org/anthology/P18-1072). In *Proceedings of ACL 2018*. 
+* Anders Søgaard, Sebastian Ruder, and Ivan Vulić. 2018. [On the Limitations of Unsupervised Bilingual Dictionary Induction](http://aclweb.org/anthology/P18-1072). In *Proceedings of ACL 2018*. [BibTeX]()
 <h3 id="clwe_su">Supervised models</h3>
 
-* Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. 
+* Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. [BibTeX]()
 * Manaal Faruqui and Chris Dyer. 2014 [Improving vector space word representations
-using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proceedings of EACL 2014*.
+using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proceedings of EACL 2014*. [BibTeX]()
 * Georgiana Dinu, Angeliki Lazaridou, and Marco Baroni. 2015. [Improving Zero-shot Learning by Mitigating the Hubness Problem](https://arxiv.org/pdf/1412.6568.pdf). In *Proceedings of ICLR 2015*. 
 * Chao Xing, Dong Wang, Chao Liu, Yiye Lin. 2015. [Normalized word embedding and orthogonal transform for bilingual word translation](http://aclweb.org/anthology/N15-11040). In *Proceedings of NAACL 2015*. 
 * Meng Zhang, Yang Liu, Huanbo Luan, Maosong Sun, Tatsuya Izuha, and Jie Hao. 2016. [Building Earth Mover's Distance on Bilingual Word Embeddings for Machine Translation](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12227/12035). In *Proceedings of AAAI 2016*. 
