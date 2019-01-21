@@ -19,7 +19,11 @@ This is a monolingual and cross-lingual word representation reading list maintai
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2017. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *arxiv:1706.04902*. [[BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/corr/Ruder17)]
 * Ivan Vuli¢, Anders Søgaard, Manaal Faruqui. 2017. [Cross-Lingual Word Representations: Induction and Evaluation](http://people.ds.cam.ac.uk/iv250/tutorial/xlingrep-tutorial.pdf). In *Proceedings of EMNLP 2017*.
 * Anders Søgaard, Sebastian Ruder, and Ivan Vulić. 2018. [On the Limitations of Unsupervised Bilingual Dictionary Induction](http://aclweb.org/anthology/P18-1072). In *Proceedings of ACL 2018*. [[BibTeX](https://aclanthology.info/papers/P18-1072/p18-1072.bib)]
+* Mareike Hartmann, Yova Kementchedjhieva and Anders Søgaard. 2018. [Why is unsupervised alignment of English embeddings from different
+algorithms so hard?](http://aclweb.org/anthology/D18-1056 ).  In *Proceedings of ACL 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1056/d18-1056.bib)]
+
 <h3 id="clwe_su">Supervised models</h3>
+
 
 * Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. [[BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/corr/MikolovLS13)]
 * Manaal Faruqui and Chris Dyer. 2014 [Improving vector space word representations
@@ -42,11 +46,14 @@ using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proce
 
 <h3 id="clwe_semi">Semi-supervised models</h3>
 
-* Meng Zhang, Haoruo Peng, Yang Liu, Huanbo Luan, and Maosong Sun. [Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14682/14264). In *Proceedings of AAAI 2017*. [[BibTeX](https://aaai.org/ocs/index.php/AAAI/AAAI17/rt/captureCite/14682/0/BibtexCitationPlugin)] [[Code](http://nlp.csai.tsinghua.edu.cn/~zm/EmbeddingMatching/)]
+* Samuel L. Smith, David H. P. Turban, Steven Hamblin and Nils Y. Hammerla. 2017. [Offline bilingual word vectors, orthogonal transformations and the inverted softmax](https://openreview.net/forum?id=r1Aab85gg). In *Proceedings of ICLR 2017*. [[BibTeX](https://openreview.net/forum?id=r1Aab85gg)]
 * Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2017. [Learning Bilingual Word Embeddings with (Almost) No Bilingual Data](http://aclweb.org/anthology/P17-1042). In *Proceedings of ACL 2017*. [[BibTeX](https://aclanthology.info/papers/P17-1042/p17-1042.bib)]
 [[Code](https://github.com/artetxem/vecmap)]
+* Meng Zhang, Haoruo Peng, Yang Liu, Huanbo Luan, and Maosong Sun. 2017. [Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14682/14264). In *Proceedings of AAAI 2017*. [[BibTeX](https://aaai.org/ocs/index.php/AAAI/AAAI17/rt/captureCite/14682/0/BibtexCitationPlugin)] [[Code](http://nlp.csai.tsinghua.edu.cn/~zm/EmbeddingMatching/)]
+
 <h3 id="clwe_un">Unsupervised models</h3>
 
+* Antonio Valerio Miceli Barone. 2016. [Towards cross-lingual distributed representations without parallel text trained with adversarial autoencoders](http://aclweb.org/anthology/W16-1614). In *Proceedings of Rep4NLP 2016*. [[BibTeX](https://aclanthology.info/papers/W16-1614/w16-1614.bib)]
 * Meng Zhang, Yang Liu, Huanbo Luan, and Maosong Sun. 2017. [Adversarial Training for Unsupervised Bilingual Lexicon Induction](http://aclweb.org/anthology/P17-1179). In *Proceedings of ACL 2017*. [[BibTeX](https://aclanthology.info/papers/P17-1179/p17-1179)] [[Code](http://nlp.csai.tsinghua.edu.cn/~zm/UBiLexAT/)]
 * Bradley Hauer, Garrett Nicolai, and Grzegorz Kondrak. 2017. [Bootstrapping Unsupervised Bilingual Lexicon Induction](http://aclweb.org/anthology/E17-2098). In *Proceedings of EACL 2017*. [[BibTeX](https://aclanthology.info/papers/E17-2098/e17-2098.bib)]
 * Yunsu Kim, Julian Schamper, and Hermann Ney. 2017. [Unsupervised Training for Large Vocabulary Translation Using Sparse Lexicon and Word Classes](http://aclweb.org/anthology/E17-2103). In *Proceedings of EACL 2017*. [[BibTeX](https://aclanthology.info/papers/E17-2103/e17-2103.bib)]
@@ -61,3 +68,9 @@ using multilingual correlation](http://aclweb.org/anthology/E14-1049). In *Proce
 * Amir Hazem and Emmanuel Morin. 2018. [Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora](http://aclweb.org/anthology/C18-1080). In *Proceedings of COLING 2018*. [[BibTeX](https://aclanthology.info/papers/C18-1080/c18-1080.bib)]
 * Xilun Chen and Claire Cardie. 2018. [Unsupervised Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1024). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1024/d18-1024.bib)]
 * Zi-Yi Dou, Zhi-Hao Zhou, and Shujian Huang. 2018. [Unsupervised Bilingual Lexicon Induction via Latent Variable Models](http://aclweb.org/anthology/D18-1062). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1062/d18-1062.bib)]
+* Tanmoy Mukherjee, Makoto Yamada and Timothy Hospedales. 2018. [Learning Unsupervised Word Translations Without Adversaries](http://aclweb.org/anthology/D18-1063). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1063/d18-1063.bib)]
+* Yedid Hoshen and Lior Wolf. 2018. [Non-Adversarial Unsupervised Word Translation](http://aclweb.org/anthology/D18-1043). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1043/d18-1043.bib)] [[Code](https://github.com/facebookresearch/NAM)] 
+* David Alvarez-Melis and Tommi Jaakkola. 2018. [Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1214/d18-1214.bib)] 
+* Ruochen Xu, Yiming Yang, Naoki Otani, Yuexin Wu. 2018. [Unsupervised Cross-lingual Transfer of Word Embedding Spaces](http://aclweb.org/anthology/D18-1268). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1268/d18-1268.bib)]  [[Code](https://github.com/xrc10/unsup-cross-lingual-embedding-transfer)] 
+* Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding. 2018. [Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding](http://aclweb.org/anthology/D18-1023 ). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1023/d18-1023.bib)] [[Code](https://github.com/wilburOne/CommonSpace/)]  
+* Yova Kementchedjhieva, Sebastian Ruder, Ryan Cotterell and Anders Søgaard. 2018. [Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction](http://aclweb.org/anthology/K18-1021). In *Proceedings of CONLL 2018*. [[BibTeX](https://aclanthology.info/papers/K18-1021/k18-1021.bib)]  [[Code](https://github.com/YovaKem/generalized-procrustes-MUSE)]   
