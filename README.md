@@ -79,6 +79,6 @@ Embeddings](http://aclweb.org/anthology/Q18-1014 ). In TACL 2018. [[BibTeX](http
 * Lifu Huang1, Kyunghyun Cho, Boliang Zhang, Heng Ji and Kevin Knight. 2018. [Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding](http://aclweb.org/anthology/D18-1023 ). In *Proceedings of EMNLP 2018*. [[BibTeX](https://aclanthology.info/papers/D18-1023/d18-1023.bib)] [[Code](https://github.com/wilburOne/CommonSpace/)]  
 * Yova Kementchedjhieva, Sebastian Ruder, Ryan Cotterell and Anders Søgaard. 2018. [Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction](http://aclweb.org/anthology/K18-1021). In *Proceedings of CONLL 2018*. [[BibTeX](https://aclanthology.info/papers/K18-1021/k18-1021.bib)]  [[Code](https://github.com/YovaKem/generalized-procrustes-MUSE)] 
 * Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan and Bamdev Mishra. 2019. [Learning Multilingual Word Embeddings in
-Latent Metric Space: A Geometric Approach](https://arxiv.org/abs/1808.08773). In TACL 2019.  [[BibTeX](to-be-updated)]  [[Code](https://github.com/anoopkunchukuttan/geomm)] 
+Latent Metric Space: A Geometric Approach](https://aclweb.org/anthology/papers/Q/Q19/Q19-1007/). In TACL 2019.  [[BibTeX](https://aclweb.org/anthology/papers/Q/Q19/Q19-1007.bib)]  [[Code](https://github.com/anoopkunchukuttan/geomm)] 
 * Shizhe Chen, Qin Jin, Alexander Hauptmann. 2019. [Unsupervised Bilingual Lexicon Induction from Monolingual Multimodal Data](to be added)
 In *Proceedings of AAAI 2019*. [[BibTeX](to be added)]
