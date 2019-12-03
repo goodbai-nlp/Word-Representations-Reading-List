@@ -1,4 +1,4 @@
-# Awesome-Word-Embeddings
+# Awesome-Word-Representations
 This is a monolingual and cross-lingual word representation reading list maintained by muyeby!
 
 * [Monolingual word embeddings](#monolingual_word_embeddings)
